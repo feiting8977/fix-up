@@ -1,0 +1,15 @@
+current directory: /Users/tingfei/Desktop/fix-up/vendor/bundle/ruby/2.5.0/gems/bindex-0.5.0/ext/bindex
+/Users/tingfei/.rbenv/versions/2.5.1/bin/ruby -r ./siteconf20180731-83635-1g44kpo.rb extconf.rb
+creating Makefile
+
+current directory: /Users/tingfei/Desktop/fix-up/vendor/bundle/ruby/2.5.0/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" clean
+
+current directory: /Users/tingfei/Desktop/fix-up/vendor/bundle/ruby/2.5.0/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR="
+compiling cruby.c
+linking shared-object bindex/cruby.bundle
+
+current directory: /Users/tingfei/Desktop/fix-up/vendor/bundle/ruby/2.5.0/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20180731-83635-f4h5j7/bindex
